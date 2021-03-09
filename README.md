@@ -1,6 +1,6 @@
 # Flask Application - Deployed via Docker
 
-This is a simple Python Flask application containerized using Docker and published on Docker Hub. The app's functionlity is straightforward: given the name of a person via the --name argument, the application returns a hello message addressed to the named person.
+This is a simple Python Flask application containerized using Docker on Amazon Web Services' (AWS) Cloud 9, and published on Docker Hub. The app's functionlity is straightforward: given the name of a person via the --name argument, the application returns a hello message addressed to the named person.
 
 # Installation
 
